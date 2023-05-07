@@ -1,0 +1,15 @@
+.flex {
+    display: flex;
+
+    justify-content: center;
+}
+
+.btn {
+    border: 0;
+    width: 100px;
+    height: 100px;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
